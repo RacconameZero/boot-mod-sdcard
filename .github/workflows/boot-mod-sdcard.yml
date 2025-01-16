@@ -32,7 +32,7 @@ on:
       name_file:
         description: "Rename Firmware"
         required: true
-        default: "FW-MOD-SDCARD"
+        default: "FWBoot SDCARD"
 
 env:
   TZ: Asia/Jakarta
